@@ -134,7 +134,10 @@ a{
     justify-content: space-between;
     padding: 20px 50px;
 }
-
+.casts, .bond-certificate, .story-summary{
+    justify-content: space-between;
+    box-sizing: 100%;
+}
 .casts {
     flex: 2;
     font-weight: bold;
