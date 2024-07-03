@@ -7,16 +7,6 @@
 body{
     font-family: Arial, Georgia, sans-serif, 'Courier';
 }
-li{
-    list-style: none;
-}
-ul{
-    margin: 0;
-    padding: 0;
-}
-a{
-    text-decoration: none;
-}
 .first-part{
     height: 500px;
     background-image: url(banner.jpg);
