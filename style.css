@@ -252,7 +252,7 @@ body{
     font-family: monaco;
     font-size: large;
     font-weight: bold;
-    max-width: 400px;
+    max-width: 200px;
     height: 400px;
     display: flex;
     align-items: center;
