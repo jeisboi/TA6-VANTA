@@ -249,11 +249,9 @@ body{
 
 .story-summary {
     width: 100%;
-    font-family: monaco;
-    font-size: large;
-    font-weight: bold;
     max-width: 400px;
     height: 400px;
+    border: 1px solid #000;
     display: flex;
     align-items: center;
     justify-content: center;
