@@ -147,12 +147,12 @@ body{
 
 .cast-item1 {
     display: flex;
+    height: 220px;
     background-image: url(https://consequence.net/wp-content/uploads/2021/07/Ian-McShane-photo-courtesy-of-Lionsgate.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     flex-direction: column;
     align-items: center;
-    border: 1px solid #000;
     padding: 10px;
     color: whitesmoke;
     font-family: Arial Narrow Bold;
@@ -161,12 +161,12 @@ body{
 }
 .cast-item2 {
     display: flex;
+    height: 220px;
     background-image: url(https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/03/john-wick-chapter-4-bowery-king-laurence-fishburne-3.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     flex-direction: column;
     align-items: center;
-    border: 1px solid #000;
     padding: 10px;
     color: whitesmoke;
     font-family: Arial Narrow Bold;
@@ -174,12 +174,12 @@ body{
 }
 .cast-item3 {
     display: flex;
+    height: 220px;
     background-image: url(https://www.slashfilm.com/img/gallery/lance-reddick-had-already-perfected-charons-voice-20-years-before-john-wick/l-intro-1679100483.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     flex-direction: column;
     align-items: center;
-    border: 1px solid #000;
     padding: 10px;
     color: whitesmoke;
     font-family: Arial Narrow Bold;
@@ -187,12 +187,12 @@ body{
 }
 .cast-item4 {
     display: flex;
+    height: 220px;
     background-image: url(https://www.gamespot.com/a/uploads/screen_kubrick/171/1712892/3536161-3532496-screen%20shot%202019-05-10%20at%2012.43.35%20pm.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     flex-direction: column;
     align-items: center;
-    border: 1px solid #000;
     padding: 10px;
     color: whitesmoke;
     font-family: Arial Narrow Bold;
@@ -200,12 +200,12 @@ body{
 }
 .cast-item5 {
     display: flex;
+    height: 220px;
     background-image: url(https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/10/john-wick-3-parabellum-halle-berry-sofia.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     flex-direction: column;
     align-items: center;
-    border: 1px solid #000;
     padding: 10px;
     color: whitesmoke;
     font-family: Arial Narrow Bold;
@@ -213,12 +213,12 @@ body{
 }
 .cast-item6 {
     display: flex;
+    height: 220px;
     background-image: url(https://i0.wp.com/fancyasf.com/wp-content/uploads/2017/11/John_Wick_Screenshot_0829.jpg?fit=1659%2C800&ssl=1);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     flex-direction: column;
     align-items: center;
-    border: 1px solid #000;
     padding: 10px;
     color: whitesmoke;
     font-family: Arial Narrow Bold;
@@ -249,6 +249,7 @@ body{
 
 .story-summary {
     width: 100%;
+    font-family: Courier;
     font-weight: bolder;
     font-size: 22px;
     max-width: 600px;
